@@ -1,0 +1,167 @@
+body{
+  margin:0;
+}
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #42b883;
+}
+
+a{
+  display: block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+.image{
+	background-image: url("qwerty.jpg");
+	height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.text{
+  text-align: right;
+  position: absolute;
+  top: 20%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  color: black;
+  font-family: 'Liu Jian Mao Cao', cursive;
+}
+.box{
+box-sizing: border-box;
+height:300px;
+width:99%;
+border: 1px 1px solid black;
+box-shadow:10px 10px 10px 10px gray;
+margin: 2px;
+background-color: white;
+}
+.box1{
+box-sizing: border-box;
+height:300px;
+width:100%;
+border: 1px 1px solid black;
+margin: 2px;
+background-color: #42b883;
+}
+.box2{
+box-sizing: border-box;
+height:1100px;
+width:99%;
+border: 1px 1px solid black;
+box-shadow:10px 10px 10px 10px gray;
+margin: 2px;
+background-color: white;
+}
+.box3{
+  box-sizing: border-box;
+height:430px;
+width:99%;
+border: 1px 1px solid black;
+box-shadow:10px 10px 10px 10px gray;
+margin: 2px;
+background-color: white;
+}
+#para{
+	padding: 35px;
+	text-align: center;
+  font-family: 'Liu Jian Mao Cao', cursive;
+}
+h5{
+	float: right;
+}
+img{
+	height: 300px;
+	width: 450px;
+	float: right;
+	padding: 25px;
+}
+.image2{
+  background-image: url("smallcacti.jpg");
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.transbox{
+  background-color: black;
+  opacity: 0.5;
+  height: 500px;
+}
+#para1{
+  color:white;
+  font-weight: bold;
+  text-align: center;
+  padding: 5%;
+}
+.gallery{
+  width:100%;
+  height: auto;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-facebook {
+  background: #55ACEE;
+  color: white;
+  margin: 1%;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+  margin: 1%;
+}
+.fa-google {
+  background: #dd4b39;
+  color: white;
+  margin: 1%;
+}
+.glyphicon-leaf{
+  font-size: 48px;
+  color: white;
+  margin-left: 46%;
+  margin-top: 20%;
+}
+.glyphicon-tree-deciduous{
+  font-size: 48px;
+  color: white;
+  margin-left: 46%;
+  margin-top: 20%;
+}
+.glyphicon-tree-conifer{
+  font-size: 48px;
+  color: white;
+  margin-left: 46%;
+  margin-top: 20%;
+}
+h4{
+  text-align: center;
+  color: white;
+}
+h2{
+  font-weight: bold;
+  text-align: center;
+  padding: 15px;
+}
+button{
+  background-color: #42b883;
+}
+
+
+
+
